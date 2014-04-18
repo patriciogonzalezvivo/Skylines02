@@ -5,6 +5,18 @@
 #include "ofxPiTFT.h"
 #include "ofxThermalPrinter.h"
 
+struct StepLoc {
+    string  google_id;
+    string  slice;
+    float   lat,lon;
+    string  address;
+    string  region;
+    string  country;
+    
+    string  map;
+    ofPoint pos;
+};
+
 class ofApp : public ofBaseApp{
 public:
     void setup();
@@ -22,11 +34,14 @@ public:
     void gotMessage(ofMessage msg);
     
     vector<ofImage> views;
+    vector<StepLoc> steps;
     
-    ofxThermalPrinter printer;
+    ofImage         map;
+    ofPoint         pos;
+
+    ofxThermalPrinter   printer;
+    ofxPiTFT            tft;
     
-    float lastTime;
-    int nLoad;
-    
-    ofxPiTFT    tft;
+    float   lastTime;
+    int     nLoad;
 };
