@@ -5,6 +5,7 @@ void ofApp::setup(){
     ofSetFrameRate(30);
     ofSetVerticalSync(true);
     ofSetLogLevel(OF_LOG_VERBOSE);
+    ofSetFullscreen(true);
     
     nLoad = 0;
     
