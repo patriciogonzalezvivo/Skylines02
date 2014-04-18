@@ -13,6 +13,7 @@ void ofApp::setup(){
 #else
     printer.open("/dev/tty.PL2303-00002014");
 #endif
+    
     printer.setControlParameter(20, 80, 250);
     lastTime = ofGetElapsedTimef();
 }
@@ -62,10 +63,6 @@ void ofApp::draw(){
     
     ofPopStyle();
     ofPopMatrix();
-    
-#ifdef TARGET_RASPBERRY_PI
-    fbcp.Copy();
-#endif
 }
 
 //--------------------------------------------------------------

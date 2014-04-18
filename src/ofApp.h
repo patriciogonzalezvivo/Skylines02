@@ -2,8 +2,7 @@
 
 #include "ofMain.h"
 
-#include "FtfMirror.h"
-
+#include "ofxPiTFT.h"
 #include "ofxThermalPrinter.h"
 
 class ofApp : public ofBaseApp{
@@ -29,7 +28,5 @@ public:
     float lastTime;
     int nLoad;
     
-#ifdef TARGET_RASPBERRY_PI
-    FrameBufferCopier fbcp;
-#endif
+    ofxPiTFT    tft;
 };
