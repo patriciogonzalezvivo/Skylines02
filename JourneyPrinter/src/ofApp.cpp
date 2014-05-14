@@ -101,19 +101,19 @@ void ofApp::draw(){
     ofPopStyle();
     ofPopMatrix();
     
-    ofPushMatrix();
-    ofTranslate(ofGetWidth()*0.5, ofGetHeight()*0.5);
-    ofRectangle textArea = font.getStringBoundingBox(steps[nLoad].address, 0, 0);
-    font.drawString(steps[nLoad].address, -textArea.getCenter().x, -textArea.getCenter().y-80);
-    textArea = font.getStringBoundingBox(steps[nLoad].region, 0, 0);
-    font.drawString(steps[nLoad].region, -textArea.getCenter().x, -textArea.getCenter().y+80);
-    ofPopMatrix();
+//    ofPushMatrix();
+//    ofTranslate(ofGetWidth()*0.5, ofGetHeight()*0.5);
+//    ofRectangle textArea = font.getStringBoundingBox(steps[nLoad].address, 0, 0);
+//    font.drawString(steps[nLoad].address, -textArea.getCenter().x, -textArea.getCenter().y-80);
+//    textArea = font.getStringBoundingBox(steps[nLoad].region, 0, 0);
+//    font.drawString(steps[nLoad].region, -textArea.getCenter().x, -textArea.getCenter().y+80);
+//    ofPopMatrix();
     
     ofPushStyle();
-    float alpha = powf(0.12,abs(sin(ofGetElapsedTimef()*0.05))*10.0);//ofMap(mouseX, 0, ofGetWidth(), 255, 0);
-    ofSetColor(255, (1.0-alpha)*255);
+//    float alpha = powf(0.12,abs(sin(ofGetElapsedTimef()*0.05))*10.0);//ofMap(mouseX, 0, ofGetWidth(), 255, 0);
+    ofSetColor(255);//, (1.0-alpha)*255);
     map.draw(0, 0, ofGetWidth(),ofGetHeight());
-    ofSetColor(255, 0, 0, (1.0-alpha)*255);
+    ofSetColor(255, 0, 0);//, (1.0-alpha)*255);
     ofCircle(pos, 20);
     ofPopStyle();
     
