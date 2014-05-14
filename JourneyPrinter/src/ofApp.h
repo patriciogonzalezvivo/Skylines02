@@ -42,6 +42,7 @@ public:
     ofxThermalPrinter   printer;
     ofxPiTFT            tft;
     
+    ofTrueTypeFont  font;
     float   lastTime;
     int     nLoad;
 };

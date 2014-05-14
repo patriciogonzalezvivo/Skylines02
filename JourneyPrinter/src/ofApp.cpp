@@ -41,6 +41,8 @@ void ofApp::setup(){
         }
 	}
     
+    font.loadFont("avenir.ttf", 80);
+    
     printer.setControlParameter(20, 80, 250);
     lastTime = ofGetElapsedTimef();
 }
@@ -50,7 +52,7 @@ void ofApp::update(){
     float now = ofGetElapsedTimef();
     float diffTime = now-lastTime;
     
-    if(nLoad < 6934 && diffTime>3.0){
+    if(nLoad < 6934 && diffTime>6.0){
         
         ofImage img;
         img.loadImage(steps[nLoad].slice);
@@ -63,6 +65,9 @@ void ofApp::update(){
         
         pos = steps[nLoad].pos/ofPoint(320,240);
         pos *= ofPoint(ofGetWidth(),ofGetHeight());
+        
+        string cmd = "echo " + ofToString(nLoad) + "@"+ ofGetTimestampString() + " >> frames.log";
+        int i = system(cmd.c_str());
         
         lastTime = now;
         ofLog(OF_LOG_VERBOSE,ofToString(nLoad)+" at "+ofToString(ofGetElapsedTimef()));
@@ -83,11 +88,11 @@ void ofApp::draw(){
     int xOffset = 0;
     for(int i = views.size()-1; i >=0 ; i--){
         xOffset += views[i].getHeight();
-        ofPushMatrix();
-        ofTranslate(-xOffset,views[i].getWidth());
-        ofRotate(-90);
-        views[i].draw(0,0);
-        ofPopMatrix();
+//        ofPushMatrix();
+//        ofTranslate(-xOffset,views[i].getWidth());
+//        ofRotate(-90);
+//        views[i].draw(0,0);
+//        ofPopMatrix();
     }
     if(xOffset>ofGetScreenWidth()){
         views.erase(views.begin()+0);
@@ -96,11 +101,19 @@ void ofApp::draw(){
     ofPopStyle();
     ofPopMatrix();
     
+    ofPushMatrix();
+    ofTranslate(ofGetWidth()*0.5, ofGetHeight()*0.5);
+    ofRectangle textArea = font.getStringBoundingBox(steps[nLoad].address, 0, 0);
+    font.drawString(steps[nLoad].address, -textArea.getCenter().x, -textArea.getCenter().y-80);
+    textArea = font.getStringBoundingBox(steps[nLoad].region, 0, 0);
+    font.drawString(steps[nLoad].region, -textArea.getCenter().x, -textArea.getCenter().y+80);
+    ofPopMatrix();
+    
     ofPushStyle();
-    float alpha = ofMap(mouseX, 0, ofGetWidth(), 255, 0);
-    ofSetColor(255, alpha);
+    float alpha = powf(0.12,abs(sin(ofGetElapsedTimef()*0.05))*10.0);//ofMap(mouseX, 0, ofGetWidth(), 255, 0);
+    ofSetColor(255, (1.0-alpha)*255);
     map.draw(0, 0, ofGetWidth(),ofGetHeight());
-    ofSetColor(255, 0, 0, alpha);
+    ofSetColor(255, 0, 0, (1.0-alpha)*255);
     ofCircle(pos, 20);
     ofPopStyle();
     
