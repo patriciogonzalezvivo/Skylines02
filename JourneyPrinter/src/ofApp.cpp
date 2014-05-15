@@ -41,8 +41,6 @@ void ofApp::setup(){
         }
 	}
     
-    font.loadFont("avenir.ttf", 80);
-    
     printer.setControlParameter(20, 80, 250);
     lastTime = ofGetElapsedTimef();
 }
@@ -54,12 +52,10 @@ void ofApp::update(){
     
     if(nLoad < 6934 && diffTime>6.0){
         
-        ofImage img;
         img.loadImage(steps[nLoad].slice);
         img.update();
         printer.print(img);
         img.setAnchorPercent(0.5, 0.5);
-        views.push_back(img);
         
         map.loadImage(steps[nLoad].map);
         
@@ -79,44 +75,12 @@ void ofApp::update(){
 void ofApp::draw(){
     ofBackground(0);
     
-    float scale = ofGetHeight()/384.0;
-    ofPushMatrix();
     ofPushStyle();
-    ofTranslate(ofGetWidth(), 0);
-    ofScale(scale, scale);
-    ofSetColor(255,200);
-    int xOffset = 0;
-    for(int i = views.size()-1; i >=0 ; i--){
-        xOffset += views[i].getHeight();
-//        ofPushMatrix();
-//        ofTranslate(-xOffset,views[i].getWidth());
-//        ofRotate(-90);
-//        views[i].draw(0,0);
-//        ofPopMatrix();
-    }
-    if(xOffset>ofGetScreenWidth()){
-        views.erase(views.begin()+0);
-    }
-    
-    ofPopStyle();
-    ofPopMatrix();
-    
-//    ofPushMatrix();
-//    ofTranslate(ofGetWidth()*0.5, ofGetHeight()*0.5);
-//    ofRectangle textArea = font.getStringBoundingBox(steps[nLoad].address, 0, 0);
-//    font.drawString(steps[nLoad].address, -textArea.getCenter().x, -textArea.getCenter().y-80);
-//    textArea = font.getStringBoundingBox(steps[nLoad].region, 0, 0);
-//    font.drawString(steps[nLoad].region, -textArea.getCenter().x, -textArea.getCenter().y+80);
-//    ofPopMatrix();
-    
-    ofPushStyle();
-//    float alpha = powf(0.12,abs(sin(ofGetElapsedTimef()*0.05))*10.0);//ofMap(mouseX, 0, ofGetWidth(), 255, 0);
-    ofSetColor(255);//, (1.0-alpha)*255);
+    ofSetColor(255);
     map.draw(0, 0, ofGetWidth(),ofGetHeight());
-    ofSetColor(255, 0, 0);//, (1.0-alpha)*255);
+    ofSetColor(255, 0, 0);
     ofCircle(pos, 20);
     ofPopStyle();
-    
 }
 
 //--------------------------------------------------------------

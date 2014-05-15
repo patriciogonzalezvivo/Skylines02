@@ -33,16 +33,14 @@ public:
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
     
-    vector<ofImage> views;
     vector<StepLoc> steps;
     
-    ofImage         map;
+    ofImage         img,map;
     ofPoint         pos;
-
+    
     ofxThermalPrinter   printer;
     ofxPiTFT            tft;
     
-    ofTrueTypeFont  font;
     float   lastTime;
     int     nLoad;
 };
