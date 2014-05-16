@@ -1,0 +1,3633 @@
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 3.44919
+[verbose] 1 at 6.45281
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofAppRunner: sighandler caught: 15
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 4.16787
+[verbose] 1 at 7.03594
+[verbose] 2 at 10.0479
+[verbose] 3 at 50.0395
+[verbose] 4 at 53.0852
+[verbose] 5 at 56.0864
+[verbose] 6 at 59.142
+[verbose] 7 at 62.156
+[verbose] 8 at 65.152
+[verbose] 9 at 68.201
+[verbose] 10 at 71.1992
+[verbose] 11 at 74.2215
+[verbose] 12 at 77.2588
+[verbose] 13 at 80.2895
+[verbose] 14 at 83.2913
+[verbose] 15 at 86.3174
+[verbose] 16 at 89.3837
+[verbose] 17 at 92.3812
+[verbose] 18 at 95.4187
+[verbose] 19 at 98.4175
+[verbose] 20 at 101.456
+[verbose] 21 at 104.487
+[verbose] 22 at 107.607
+[verbose] 23 at 110.546
+[verbose] 24 at 113.534
+[verbose] 25 at 116.635
+[verbose] 26 at 119.664
+[verbose] 27 at 122.642
+[verbose] 28 at 125.644
+[verbose] 29 at 128.69
+[verbose] 30 at 131.743
+[verbose] 31 at 135.478
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+terminate called after throwing an instance of 'Poco::SystemException'
+  what():  System exception
+[verbose] ofAppRunner: sighandler caught: 6
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): mouse_fd= 5 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.3:1.1-event-mouse
+[notice ] ofAppEGLWindow: setupMouse(): mouse device name = Riite Mini Keybo
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard_fd= 6 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.3:1.0-event-kbd
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard device name = Riite Mini Keybo
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 4.39401
+[verbose] 1 at 7.33964
+[verbose] 2 at 277707
+[verbose] 3 at 277710
+[verbose] 4 at 277714
+[verbose] 5 at 277716
+[verbose] 6 at 277719
+[verbose] 7 at 277722
+[verbose] 8 at 277726
+[verbose] 9 at 277729
+[verbose] 10 at 277732
+[verbose] 11 at 277735
+[verbose] 12 at 277738
+[verbose] 13 at 277741
+[verbose] 14 at 277744
+[verbose] 15 at 277747
+[verbose] 16 at 277750
+[verbose] 17 at 277753
+[verbose] 18 at 277756
+[verbose] 19 at 277759
+[verbose] 20 at 277762
+[verbose] 21 at 277765
+[verbose] 22 at 277768
+[verbose] 23 at 277771
+[verbose] 24 at 277774
+[verbose] 25 at 277777
+[verbose] 26 at 277780
+[verbose] 27 at 277783
+[verbose] 28 at 277786
+[verbose] 29 at 277789
+[verbose] 30 at 277792
+[verbose] 31 at 277796
+[verbose] 32 at 277799
+[verbose] 33 at 277802
+[verbose] 34 at 277805
+[verbose] 35 at 277808
+[verbose] 36 at 277811
+[verbose] 37 at 277814
+[verbose] 38 at 277817
+[verbose] 39 at 277820
+[verbose] 40 at 277823
+[verbose] 41 at 277826
+[verbose] 42 at 277829
+[verbose] 43 at 277832
+[verbose] 44 at 277835
+[verbose] 45 at 277838
+[verbose] 46 at 277841
+[verbose] 47 at 277844
+[verbose] 48 at 277847
+[verbose] 49 at 277850
+[verbose] 50 at 277854
+[verbose] 51 at 277857
+[verbose] 52 at 277860
+[verbose] 53 at 277863
+[verbose] 54 at 277866
+[verbose] 55 at 277869
+[verbose] 56 at 277872
+[verbose] 57 at 277875
+[verbose] 58 at 277878
+[verbose] 59 at 277881
+[verbose] 60 at 277884
+[verbose] 61 at 277888
+[verbose] 62 at 277891
+[verbose] 63 at 277894
+[verbose] 64 at 277897
+[verbose] 65 at 277900
+[verbose] 66 at 277903
+[verbose] 67 at 277906
+[verbose] 68 at 277909
+[verbose] 69 at 277912
+[verbose] 70 at 277916
+[verbose] 71 at 277918
+[verbose] 72 at 277921
+[verbose] 73 at 277925
+[verbose] 74 at 277928
+[verbose] 75 at 277931
+[verbose] 76 at 277934
+[verbose] 77 at 277937
+[verbose] 78 at 277940
+[verbose] 79 at 277943
+[verbose] 80 at 277946
+[verbose] 81 at 277949
+[verbose] 82 at 277952
+[verbose] 83 at 277955
+[verbose] 84 at 277958
+[verbose] 85 at 277961
+[verbose] 86 at 277964
+[verbose] 87 at 277967
+[verbose] 88 at 277970
+[verbose] 89 at 277973
+[verbose] 90 at 277979
+[verbose] 91 at 277980
+[verbose] 92 at 277983
+[verbose] 93 at 277986
+[verbose] 94 at 277989
+[verbose] 95 at 277992
+[verbose] 96 at 277996
+[verbose] 97 at 277999
+[verbose] 98 at 278002
+[verbose] 99 at 278005
+[verbose] 100 at 278008
+[verbose] 101 at 278011
+[verbose] 102 at 278014
+[verbose] 103 at 278017
+[verbose] 104 at 278020
+[verbose] 105 at 278023
+[verbose] 106 at 278026
+[verbose] 107 at 278029
+[verbose] 108 at 278032
+[verbose] 109 at 278035
+[verbose] 110 at 278038
+[verbose] 111 at 278041
+[verbose] 112 at 278044
+[verbose] 113 at 278049
+[verbose] 114 at 278051
+[verbose] 115 at 278054
+[verbose] 116 at 278057
+[verbose] 117 at 278060
+[verbose] 118 at 278063
+[verbose] 119 at 278066
+[verbose] 120 at 278069
+[verbose] 121 at 278072
+[verbose] 122 at 278075
+[verbose] 123 at 278079
+[verbose] 124 at 278091
+[verbose] 125 at 278092
+[verbose] 126 at 278095
+[verbose] 127 at 278098
+[verbose] 128 at 278101
+[verbose] 129 at 278104
+[verbose] 130 at 278107
+[verbose] 131 at 278110
+[verbose] 132 at 278114
+[verbose] 133 at 278116
+[verbose] 134 at 278119
+[verbose] 135 at 278122
+[verbose] 136 at 278125
+[verbose] 137 at 278128
+[verbose] 138 at 278131
+[verbose] 139 at 278134
+[verbose] 140 at 278137
+[verbose] 141 at 278141
+[verbose] 142 at 278144
+[verbose] 143 at 278147
+[verbose] 144 at 278151
+[verbose] 145 at 278154
+[verbose] 146 at 278173
+[verbose] 147 at 278179
+[verbose] 148 at 278180
+[verbose] 149 at 278185
+[verbose] 150 at 278188
+[verbose] 151 at 278190
+[verbose] 152 at 278193
+[verbose] 153 at 278201
+[verbose] 154 at 278207
+[verbose] 155 at 278217
+[verbose] 156 at 278221
+[verbose] 157 at 278223
+[verbose] 158 at 278225
+[verbose] 159 at 278228
+[verbose] 160 at 278231
+[verbose] 161 at 278234
+[verbose] 162 at 278237
+[verbose] 163 at 278240
+[verbose] 164 at 278246
+[verbose] 165 at 278249
+[verbose] 166 at 278252
+[verbose] 167 at 278255
+[verbose] 168 at 278258
+[verbose] 169 at 278261
+[verbose] 170 at 278264
+[verbose] 171 at 278270
+[verbose] 172 at 278273
+[verbose] 173 at 278276
+[verbose] 174 at 278279
+[verbose] 175 at 278285
+[verbose] 176 at 278288
+[verbose] 177 at 278291
+[verbose] 178 at 278294
+[verbose] 179 at 278297
+[verbose] 180 at 278300
+[verbose] 181 at 278304
+[verbose] 182 at 278307
+[verbose] 183 at 278310
+[verbose] 184 at 278316
+[verbose] 185 at 278320
+[verbose] 186 at 278323
+[verbose] 187 at 278326
+[verbose] 188 at 278329
+[verbose] 189 at 278332
+[verbose] 190 at 278335
+[verbose] 191 at 278338
+[verbose] 192 at 278341
+[verbose] 193 at 278344
+[verbose] 194 at 278347
+[verbose] 195 at 278350
+[verbose] 196 at 278353
+[verbose] 197 at 278357
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 9.88524
+[verbose] 1 at 12.9151
+[verbose] 2 at 15.9353
+[verbose] 3 at 18.9013
+[verbose] 4 at 43850.8
+[verbose] 5 at 43853.8
+[verbose] 6 at 43856.8
+[verbose] 7 at 43859.8
+[verbose] 8 at 43862.9
+[verbose] 9 at 43865.9
+[verbose] 10 at 43868.9
+[verbose] 11 at 43872
+[verbose] 12 at 43875
+[verbose] 13 at 43878
+[verbose] 14 at 43881
+[verbose] 15 at 43884
+[verbose] 16 at 43887.1
+[verbose] 17 at 43890.1
+[verbose] 18 at 43893.2
+[verbose] 19 at 43896.2
+[verbose] 20 at 43899.2
+[verbose] 21 at 43902.2
+[verbose] 22 at 43905.2
+[verbose] 23 at 43908.3
+[verbose] 24 at 43911.3
+[verbose] 25 at 43914.3
+[verbose] 26 at 43917.3
+[verbose] 27 at 43920.3
+[verbose] 28 at 43923.4
+[verbose] 29 at 43926.4
+[verbose] 30 at 43929.4
+[verbose] 31 at 43932.4
+[verbose] 32 at 43935.5
+[verbose] 33 at 43938.5
+[verbose] 34 at 43941.5
+[verbose] 35 at 43944.5
+[verbose] 36 at 43947.5
+[verbose] 37 at 43950.6
+[verbose] 38 at 43953.6
+[verbose] 39 at 43956.7
+[verbose] 40 at 43959.7
+[verbose] 41 at 43962.8
+[verbose] 42 at 43965.8
+[verbose] 43 at 43968.8
+[verbose] 44 at 43971.9
+[verbose] 45 at 43974.9
+[verbose] 46 at 43977.9
+[verbose] 47 at 43981
+[verbose] 48 at 43984
+[verbose] 49 at 43987
+[verbose] 50 at 43990
+[verbose] 51 at 43993
+[verbose] 52 at 43996.1
+[verbose] 53 at 43999.2
+[verbose] 54 at 44002.2
+[verbose] 55 at 44005.2
+[verbose] 56 at 44008.2
+[verbose] 57 at 44011.3
+[verbose] 58 at 44014.3
+[verbose] 59 at 44017.3
+[verbose] 60 at 44020.4
+[verbose] 61 at 44023.4
+[verbose] 62 at 44026.4
+[verbose] 63 at 44029.5
+[verbose] 64 at 44032.5
+[verbose] 65 at 44035.6
+[verbose] 66 at 44038.6
+[verbose] 67 at 44041.7
+[verbose] 68 at 44044.7
+[verbose] 69 at 44047.7
+[verbose] 70 at 44050.7
+[verbose] 71 at 44053.8
+[verbose] 72 at 44056.8
+[verbose] 73 at 44059.8
+[verbose] 74 at 44062.9
+[verbose] 75 at 44065.9
+[verbose] 76 at 44068.9
+[verbose] 77 at 44072.1
+[verbose] 78 at 44075.1
+[verbose] 79 at 44078.1
+[verbose] 80 at 44081.2
+[verbose] 81 at 44084.2
+[verbose] 82 at 44087.3
+[verbose] 83 at 44090.3
+[verbose] 84 at 44093.4
+[verbose] 85 at 44096.4
+[verbose] 86 at 44099.4
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+*** glibc detected *** ./JourneyPrinter: corrupted double-linked list: 0x01eb6f58 ***
+[verbose] ofAppRunner: sighandler caught: 6
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1366x768
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x768
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): mouse_fd= 5 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.3.3:1.1-event-mouse
+[notice ] ofAppEGLWindow: setupMouse(): mouse device name = BTC USB Cordless Mouse
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard_fd= 6 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.3.1:1.0-event-kbd
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard device name = Motorola Mobility Motorola HD Dock
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1366 x 768
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 9.31505
+[verbose] 1 at 12.3478
+[verbose] 2 at 15.3748
+[verbose] 3 at 1020.17
+[verbose] 4 at 1023.2
+[verbose] 5 at 1026.15
+[verbose] 6 at 1029.2
+[verbose] 7 at 1032.2
+[verbose] 8 at 1035.24
+[verbose] 9 at 1038.28
+[verbose] 10 at 1041.29
+[verbose] 11 at 1044.29
+[verbose] 12 at 1047.33
+[verbose] 13 at 1050.33
+[verbose] 14 at 1053.33
+[verbose] 15 at 1056.36
+[verbose] 16 at 1059.42
+[verbose] 17 at 1062.43
+[verbose] 18 at 1065.42
+[verbose] 19 at 1068.46
+[verbose] 20 at 1071.49
+[verbose] 21 at 1074.53
+[verbose] 22 at 1077.54
+[verbose] 23 at 1080.6
+[verbose] 24 at 1083.6
+[verbose] 25 at 1086.64
+[verbose] 26 at 1089.68
+[verbose] 27 at 1092.69
+[verbose] 28 at 1095.71
+[verbose] 29 at 1098.73
+[verbose] 30 at 1101.8
+[verbose] 31 at 1104.82
+[verbose] 32 at 1107.94
+[verbose] 33 at 1110.91
+[verbose] 34 at 1113.94
+[verbose] 35 at 1116.98
+[verbose] 36 at 1120.02
+[verbose] 37 at 1123
+[verbose] 38 at 1126.03
+[verbose] 39 at 1129.09
+[verbose] 40 at 1132.09
+[verbose] 41 at 1135.13
+[verbose] 42 at 1138.18
+[verbose] 43 at 1141.2
+[verbose] 44 at 1144.22
+[verbose] 45 at 1147.27
+[verbose] 46 at 1150.3
+[verbose] 47 at 1153.35
+[verbose] 48 at 1156.38
+[verbose] 49 at 1159.43
+[verbose] 50 at 1162.48
+[verbose] 51 at 1165.5
+[verbose] 52 at 1168.53
+[verbose] 53 at 1171.6
+[verbose] 54 at 1174.68
+[verbose] 55 at 1177.67
+[verbose] 56 at 1180.7
+[verbose] 57 at 1183.76
+[verbose] 58 at 1186.81
+[verbose] 59 at 1189.8
+[verbose] 60 at 1192.88
+[verbose] 61 at 1195.87
+[verbose] 62 at 1198.96
+[verbose] 63 at 1202.08
+[verbose] 64 at 1205.1
+[verbose] 65 at 1208.13
+[verbose] 66 at 1211.12
+[verbose] 67 at 1214.17
+[verbose] 68 at 1217.19
+[verbose] 69 at 1220.22
+[verbose] 70 at 1223.23
+[verbose] 71 at 1226.28
+[verbose] 72 at 1229.28
+[verbose] 73 at 1232.38
+[verbose] 74 at 1235.47
+[verbose] 75 at 1238.52
+[verbose] 76 at 1241.51
+[verbose] 77 at 1244.63
+[verbose] 78 at 1247.62
+[verbose] 79 at 1250.69
+[verbose] 80 at 1253.78
+[verbose] 81 at 1256.79
+[verbose] 82 at 1259.84
+[verbose] 83 at 1262.86
+[verbose] 84 at 1265.93
+[verbose] 85 at 1269.01
+[verbose] 86 at 1272.02
+[verbose] 87 at 1275.09
+[verbose] 88 at 1278.11
+[verbose] 89 at 1281.11
+[verbose] 90 at 1284.17
+[verbose] 91 at 1287.23
+[verbose] 92 at 1290.23
+[verbose] 93 at 1293.32
+[verbose] 94 at 1296.39
+[verbose] 95 at 1299.43
+[verbose] 96 at 1302.49
+[verbose] 97 at 1305.57
+[verbose] 98 at 1308.62
+[verbose] 99 at 1311.66
+[verbose] 100 at 1314.68
+[verbose] 101 at 1317.69
+[verbose] 102 at 1320.78
+[verbose] 103 at 1323.8
+[verbose] 104 at 1326.81
+[verbose] 105 at 1329.83
+[verbose] 106 at 1332.9
+[verbose] 107 at 1335.91
+[verbose] 108 at 1339
+[verbose] 109 at 1342.08
+[verbose] 110 at 1345.11
+[verbose] 111 at 1348.13
+[verbose] 112 at 1351.2
+[verbose] 113 at 1354.26
+[verbose] 114 at 1357.27
+[verbose] 115 at 1360.29
+[verbose] 116 at 1363.33
+[verbose] 117 at 1366.41
+[verbose] 118 at 1369.48
+[verbose] 119 at 1372.52
+[verbose] 120 at 1375.6
+[verbose] 121 at 1378.66
+[verbose] 122 at 1381.66
+[verbose] 123 at 1384.75
+[verbose] 124 at 1387.87
+[verbose] 125 at 1390.86
+[verbose] 126 at 1393.89
+[verbose] 127 at 1396.89
+[verbose] 128 at 1399.89
+[verbose] 129 at 1402.91
+[verbose] 130 at 1405.94
+[verbose] 131 at 1408.97
+[verbose] 132 at 1411.99
+[verbose] 133 at 1415.01
+[verbose] 134 at 1418.02
+[verbose] 135 at 1421.02
+[verbose] 136 at 1424.11
+[verbose] 137 at 1427.13
+[verbose] 138 at 1430.17
+[verbose] 139 at 1433.19
+[verbose] 140 at 1436.22
+[verbose] 141 at 1439.25
+[verbose] 142 at 1442.28
+[verbose] 143 at 1445.29
+[verbose] 144 at 1448.3
+[verbose] 145 at 1451.32
+[verbose] 146 at 1454.36
+[verbose] 147 at 1457.4
+[verbose] 148 at 1460.44
+[verbose] 149 at 1463.47
+[verbose] 150 at 1466.49
+[verbose] 151 at 1469.52
+[verbose] 152 at 1472.54
+[verbose] 153 at 1475.59
+[verbose] 154 at 1478.62
+[verbose] 155 at 1481.66
+[verbose] 156 at 1484.74
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+terminate called after throwing an instance of 'Poco::SystemException'
+  what():  System exception
+[verbose] ofAppRunner: sighandler caught: 6
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1366x768
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x768
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): mouse_fd= 5 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.2.3:1.1-event-mouse
+[notice ] ofAppEGLWindow: setupMouse(): mouse device name = BTC USB Cordless Mouse
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard_fd= 6 devicePath=/dev/input/by-path/platform-bcm2708_usb-usb-0:1.2.1:1.0-event-kbd
+[notice ] ofAppEGLWindow: setupKeyboard(): keyboard device name = Motorola Mobility Motorola HD Dock
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1366 x 768
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 9.78193
+[verbose] 1 at 12.7613
+[verbose] 2 at 15.784
+[verbose] 3 at 18.733
+[verbose] 4 at 21.7622
+[verbose] 5 at 24.7802
+[verbose] 6 at 27.7783
+[verbose] 7 at 30.7861
+[verbose] 8 at 33.8429
+[verbose] 9 at 36.9121
+[verbose] 10 at 39.8596
+[verbose] 11 at 42.8732
+[verbose] 12 at 45.8743
+[verbose] 13 at 48.9097
+[verbose] 14 at 51.9126
+[verbose] 15 at 54.8996
+[verbose] 16 at 57.952
+[verbose] 17 at 60.9338
+[verbose] 18 at 63.9654
+[verbose] 19 at 66.9799
+[verbose] 20 at 69.9913
+[verbose] 21 at 73.001
+[verbose] 22 at 76.0441
+[verbose] 23 at 79.0869
+[verbose] 24 at 82.1084
+[verbose] 25 at 85.1542
+[verbose] 26 at 88.1833
+[verbose] 27 at 91.2226
+[verbose] 28 at 94.2628
+[verbose] 29 at 97.2942
+[verbose] 30 at 100.333
+[verbose] 31 at 103.334
+[verbose] 32 at 106.413
+[verbose] 33 at 109.324
+[verbose] 34 at 112.343
+[verbose] 35 at 115.359
+[verbose] 36 at 118.392
+[verbose] 37 at 121.412
+[verbose] 38 at 124.423
+[verbose] 39 at 127.526
+[verbose] 40 at 130.565
+[verbose] 41 at 133.62
+[verbose] 42 at 136.67
+[verbose] 43 at 139.694
+[verbose] 44 at 142.71
+[verbose] 45 at 145.766
+[verbose] 46 at 148.833
+[verbose] 47 at 151.818
+[verbose] 48 at 154.87
+[verbose] 49 at 157.914
+[verbose] 50 at 160.968
+[verbose] 51 at 163.986
+[verbose] 52 at 167.023
+[verbose] 53 at 170.092
+[verbose] 54 at 173.171
+[verbose] 55 at 176.19
+[verbose] 56 at 179.207
+[verbose] 57 at 182.256
+[verbose] 58 at 185.287
+[verbose] 59 at 188.357
+[verbose] 60 at 191.396
+[verbose] 61 at 194.456
+[verbose] 62 at 197.54
+[verbose] 63 at 200.627
+[verbose] 64 at 203.672
+[verbose] 65 at 206.687
+[verbose] 66 at 209.758
+[verbose] 67 at 212.834
+[verbose] 68 at 215.832
+[verbose] 69 at 218.869
+[verbose] 70 at 221.909
+[verbose] 71 at 225.004
+[verbose] 72 at 228.026
+[verbose] 73 at 231.099
+[verbose] 74 at 234.185
+[verbose] 75 at 237.233
+[verbose] 76 at 240.27
+[verbose] 77 at 243.327
+[verbose] 78 at 246.382
+[verbose] 79 at 249.404
+[verbose] 80 at 252.481
+[verbose] 81 at 255.565
+[verbose] 82 at 258.61
+[verbose] 83 at 261.582
+[verbose] 84 at 264.611
+[verbose] 85 at 267.686
+[verbose] 86 at 270.69
+[verbose] 87 at 273.724
+[verbose] 88 at 276.783
+[verbose] 89 at 279.786
+[verbose] 90 at 282.818
+[verbose] 91 at 285.896
+[verbose] 92 at 288.968
+[verbose] 93 at 292.031
+[verbose] 94 at 295.103
+[verbose] 95 at 298.126
+[verbose] 96 at 301.17
+[verbose] 97 at 304.2
+[verbose] 98 at 307.277
+[verbose] 99 at 310.298
+[verbose] 100 at 313.359
+[verbose] 101 at 316.365
+[verbose] 102 at 319.401
+[verbose] 103 at 322.456
+[verbose] 104 at 325.486
+[verbose] 105 at 328.57
+[verbose] 106 at 331.588
+[verbose] 107 at 334.6
+[verbose] 108 at 337.693
+[verbose] 109 at 340.717
+[verbose] 110 at 343.78
+[verbose] 111 at 346.8
+[verbose] 112 at 349.825
+[verbose] 113 at 352.875
+[verbose] 114 at 355.895
+[verbose] 115 at 358.951
+[verbose] 116 at 361.982
+[verbose] 117 at 365.023
+[verbose] 118 at 368.075
+[verbose] 119 at 371.095
+[verbose] 120 at 374.166
+[verbose] 121 at 377.186
+[verbose] 122 at 380.209
+[verbose] 123 at 383.295
+[verbose] 124 at 386.323
+[verbose] 125 at 389.306
+[verbose] 126 at 392.421
+[verbose] 127 at 395.412
+[verbose] 128 at 398.411
+[verbose] 129 at 401.428
+[verbose] 130 at 404.483
+[verbose] 131 at 407.5
+[verbose] 132 at 410.509
+[verbose] 133 at 413.556
+[verbose] 134 at 416.657
+[verbose] 135 at 419.649
+[verbose] 136 at 422.647
+[verbose] 137 at 425.782
+[verbose] 138 at 428.883
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[verbose] ofAppRunner: sighandler caught: 15
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+[notice ] ofAppEGLWindow: display(): eglSwapBuffers failed: invalid display specified
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): exiting infinite loop
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 9.59977
+[verbose] 1 at 12.6366
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 9.01532
+[verbose] 1 at 83.4042
+[verbose] 2 at 86.4367
+[verbose] 3 at 89.4402
+[verbose] 4 at 92.4665
+[verbose] 5 at 95.4745
+[verbose] 6 at 98.5179
+[verbose] 7 at 101.508
+[verbose] 8 at 104.492
+[verbose] 9 at 107.507
+[verbose] 10 at 110.531
+[verbose] 11 at 113.542
+[verbose] 12 at 116.544
+[verbose] 13 at 119.541
+[verbose] 14 at 122.542
+[verbose] 15 at 125.571
+[verbose] 16 at 128.674
+[verbose] 17 at 131.676
+[verbose] 18 at 134.67
+[verbose] 19 at 137.709
+[verbose] 20 at 140.741
+[verbose] 21 at 143.741
+[verbose] 22 at 146.783
+[verbose] 23 at 149.796
+[verbose] 24 at 152.837
+[verbose] 25 at 155.85
+[verbose] 26 at 158.89
+[verbose] 27 at 161.891
+[verbose] 28 at 164.895
+[verbose] 29 at 167.943
+[verbose] 30 at 170.962
+[verbose] 31 at 173.959
+[verbose] 32 at 177.03
+[verbose] 33 at 179.947
+[verbose] 34 at 182.946
+[verbose] 35 at 186.006
+[verbose] 36 at 189.008
+[verbose] 37 at 192.055
+[verbose] 38 at 195.087
+[verbose] 39 at 198.155
+[verbose] 40 at 201.165
+[verbose] 41 at 204.179
+[verbose] 42 at 207.236
+[verbose] 43 at 210.253
+[verbose] 44 at 213.27
+[verbose] 45 at 216.291
+[verbose] 46 at 219.35
+[verbose] 47 at 222.397
+[verbose] 48 at 225.469
+[verbose] 49 at 228.494
+[verbose] 50 at 231.529
+[verbose] 51 at 234.547
+[verbose] 52 at 237.56
+[verbose] 53 at 240.581
+[verbose] 54 at 243.676
+[verbose] 55 at 246.683
+[verbose] 56 at 249.726
+[verbose] 57 at 252.745
+[verbose] 58 at 255.852
+[verbose] 59 at 258.864
+[verbose] 60 at 261.894
+[verbose] 61 at 264.927
+[verbose] 62 at 267.947
+[verbose] 63 at 270.987
+[verbose] 64 at 274.045
+[verbose] 65 at 277.056
+[verbose] 66 at 280.059
+[verbose] 67 at 283.122
+[verbose] 68 at 286.146
+[verbose] 69 at 289.159
+[verbose] 70 at 292.177
+[verbose] 71 at 295.256
+[verbose] 72 at 298.251
+[verbose] 73 at 301.278
+[verbose] 74 at 304.296
+[verbose] 75 at 307.35
+[verbose] 76 at 310.34
+[verbose] 77 at 313.466
+[verbose] 78 at 316.493
+[verbose] 79 at 319.522
+[verbose] 80 at 322.629
+[verbose] 81 at 325.666
+[verbose] 82 at 328.731
+[verbose] 83 at 331.781
+[verbose] 84 at 334.79
+[verbose] 85 at 337.833
+[verbose] 86 at 340.853
+[verbose] 87 at 343.882
+[verbose] 88 at 346.895
+[verbose] 89 at 349.926
+[verbose] 90 at 352.956
+[verbose] 91 at 355.985
+[verbose] 92 at 359.038
+[verbose] 93 at 362.056
+[verbose] 94 at 365.082
+[verbose] 95 at 368.106
+[verbose] 96 at 371.151
+[verbose] 97 at 374.18
+[verbose] 98 at 377.244
+[verbose] 99 at 380.238
+[verbose] 100 at 383.331
+[verbose] 101 at 386.347
+[verbose] 102 at 389.363
+[verbose] 103 at 392.366
+[verbose] 104 at 395.367
+[verbose] 105 at 398.475
+[verbose] 106 at 401.585
+[verbose] 107 at 404.579
+[verbose] 108 at 407.583
+[verbose] 109 at 410.644
+[verbose] 110 at 413.648
+[verbose] 111 at 416.67
+[verbose] 112 at 419.695
+[verbose] 113 at 422.726
+[verbose] 114 at 425.726
+[verbose] 115 at 428.746
+[verbose] 116 at 431.761
+[verbose] 117 at 434.781
+[verbose] 118 at 437.823
+[verbose] 119 at 440.835
+[verbose] 120 at 443.869
+[verbose] 121 at 446.879
+[verbose] 122 at 449.926
+[verbose] 123 at 452.946
+[verbose] 124 at 456.051
+[verbose] 125 at 459.057
+[verbose] 126 at 462.08
+[verbose] 127 at 465.13
+[verbose] 128 at 468.149
+[verbose] 129 at 471.183
+[verbose] 130 at 474.244
+[verbose] 131 at 477.267
+[verbose] 132 at 480.29
+[verbose] 133 at 483.341
+[verbose] 134 at 486.348
+[verbose] 135 at 489.414
+[verbose] 136 at 492.438
+[verbose] 137 at 495.492
+[verbose] 138 at 498.541
+[verbose] 139 at 501.58
+[verbose] 140 at 504.653
+[verbose] 141 at 507.658
+[verbose] 142 at 510.701
+[verbose] 143 at 513.748
+[verbose] 144 at 516.783
+[verbose] 145 at 519.849
+[verbose] 146 at 522.917
+[verbose] 147 at 525.983
+[verbose] 148 at 529.059
+[verbose] 149 at 532.103
+[verbose] 150 at 535.166
+[verbose] 151 at 538.245
+[verbose] 152 at 541.273
+[verbose] 153 at 544.379
+[verbose] 154 at 547.448
+[verbose] 155 at 550.472
+[verbose] 156 at 553.497
+[verbose] 157 at 556.539
+[verbose] 158 at 559.63
+[verbose] 159 at 562.66
+[verbose] 160 at 565.743
+[verbose] 161 at 568.736
+[verbose] 162 at 571.78
+[verbose] 163 at 574.868
+[verbose] 164 at 577.919
+[verbose] 165 at 580.924
+[verbose] 166 at 584.047
+[verbose] 167 at 587.048
+[verbose] 168 at 590.044
+[verbose] 169 at 593.141
+[verbose] 170 at 596.171
+[verbose] 171 at 599.195
+[verbose] 172 at 602.282
+[verbose] 173 at 605.295
+[verbose] 174 at 608.344
+[verbose] 175 at 611.365
+[verbose] 176 at 614.38
+[verbose] 177 at 617.427
+[verbose] 178 at 620.453
+[verbose] 179 at 623.454
+[verbose] 180 at 626.475
+[verbose] 181 at 629.482
+[verbose] 182 at 632.481
+[verbose] 183 at 635.545
+[verbose] 184 at 638.564
+[verbose] 185 at 641.585
+[verbose] 186 at 644.63
+[verbose] 187 at 647.649
+[verbose] 188 at 650.676
+[verbose] 189 at 653.696
+[verbose] 190 at 656.743
+[verbose] 191 at 659.773
+[verbose] 192 at 662.793
+[verbose] 193 at 665.845
+[verbose] 194 at 668.871
+[verbose] 195 at 671.885
+[verbose] 196 at 674.956
+[verbose] 197 at 678.085
+[verbose] 198 at 681.172
+[verbose] 199 at 684.107
+[verbose] 200 at 687.094
+[verbose] 201 at 690.139
+[verbose] 202 at 693.155
+[verbose] 203 at 696.161
+[verbose] 204 at 699.199
+[verbose] 205 at 702.233
+[verbose] 206 at 705.241
+[verbose] 207 at 708.255
+[verbose] 208 at 711.269
+[verbose] 209 at 714.281
+[verbose] 210 at 717.346
+[verbose] 211 at 720.366
+[verbose] 212 at 723.387
+[verbose] 213 at 726.426
+[verbose] 214 at 729.498
+[verbose] 215 at 732.477
+[verbose] 216 at 735.501
+[verbose] 217 at 738.541
+[verbose] 218 at 741.569
+[verbose] 219 at 744.583
+[verbose] 220 at 747.628
+[verbose] 221 at 750.657
+[verbose] 222 at 753.676
+[verbose] 223 at 756.719
+[verbose] 224 at 759.764
+[verbose] 225 at 762.756
+[verbose] 226 at 765.837
+[verbose] 227 at 768.878
+[verbose] 228 at 771.967
+[verbose] 229 at 775.037
+[verbose] 230 at 778.131
+[verbose] 231 at 781.126
+[verbose] 232 at 784.16
+[verbose] 233 at 787.27
+[verbose] 234 at 790.272
+[verbose] 235 at 793.261
+[verbose] 236 at 796.36
+[verbose] 237 at 799.45
+[verbose] 238 at 802.456
+[verbose] 239 at 805.49
+[verbose] 240 at 808.546
+[verbose] 241 at 811.547
+[verbose] 242 at 814.571
+[verbose] 243 at 817.619
+[verbose] 244 at 820.67
+[verbose] 245 at 823.691
+[verbose] 246 at 826.741
+[verbose] 247 at 829.748
+[verbose] 248 at 832.767
+[verbose] 249 at 835.822
+[verbose] 250 at 838.854
+[verbose] 251 at 841.897
+[verbose] 252 at 844.995
+[verbose] 253 at 848.037
+[verbose] 254 at 851.076
+[verbose] 255 at 854.141
+[verbose] 256 at 857.161
+[verbose] 257 at 860.182
+[verbose] 258 at 863.24
+[verbose] 259 at 866.278
+[verbose] 260 at 869.279
+[verbose] 261 at 872.347
+[verbose] 262 at 875.375
+[verbose] 263 at 878.465
+[verbose] 264 at 881.49
+[verbose] 265 at 884.55
+[verbose] 266 at 887.591
+[verbose] 267 at 890.645
+[verbose] 268 at 893.696
+[verbose] 269 at 896.687
+[verbose] 270 at 899.796
+[verbose] 271 at 902.858
+[verbose] 272 at 905.932
+[verbose] 273 at 909.016
+[verbose] 274 at 912.065
+[verbose] 275 at 915.069
+[verbose] 276 at 918.12
+[verbose] 277 at 921.078
+[verbose] 278 at 924.208
+[verbose] 279 at 927.154
+[verbose] 280 at 930.143
+[verbose] 281 at 933.191
+[verbose] 282 at 936.224
+[verbose] 283 at 939.22
+[verbose] 284 at 942.265
+[verbose] 285 at 945.246
+[verbose] 286 at 948.284
+[verbose] 287 at 951.367
+[verbose] 288 at 954.408
+[verbose] 289 at 957.424
+[verbose] 290 at 960.469
+[verbose] 291 at 963.479
+[verbose] 292 at 966.482
+[verbose] 293 at 969.502
+[verbose] 294 at 972.567
+[verbose] 295 at 975.596
+[verbose] 296 at 978.605
+[verbose] 297 at 981.628
+[verbose] 298 at 984.713
+[verbose] 299 at 987.76
+[verbose] 300 at 990.757
+[verbose] 301 at 993.788
+[verbose] 302 at 996.784
+[verbose] 303 at 999.852
+[verbose] 304 at 1002.85
+[verbose] 305 at 1005.9
+[verbose] 306 at 1008.91
+[verbose] 307 at 1012
+[verbose] 308 at 1015.05
+[verbose] 309 at 1018.02
+[verbose] 310 at 1021.07
+[verbose] 311 at 1024.09
+[verbose] 312 at 1027.1
+[verbose] 313 at 1030.14
+[verbose] 314 at 1033.15
+[verbose] 315 at 1036.19
+[verbose] 316 at 1039.26
+[verbose] 317 at 1042.27
+[verbose] 318 at 1045.28
+[verbose] 319 at 1048.31
+[verbose] 320 at 1051.34
+[verbose] 321 at 1054.36
+[verbose] 322 at 1057.38
+[verbose] 323 at 1060.44
+[verbose] 324 at 1063.45
+[verbose] 325 at 1066.48
+[verbose] 326 at 1069.54
+[verbose] 327 at 1072.58
+[verbose] 328 at 1075.58
+[verbose] 329 at 1078.63
+[verbose] 330 at 1081.67
+[verbose] 331 at 1084.67
+[verbose] 332 at 1087.68
+[verbose] 333 at 1090.73
+[verbose] 334 at 1093.77
+[verbose] 335 at 1096.84
+[verbose] 336 at 1099.9
+[verbose] 337 at 1102.9
+[verbose] 338 at 1105.91
+[verbose] 339 at 1108.94
+[verbose] 340 at 1111.97
+[verbose] 341 at 1115.01
+[verbose] 342 at 1118.05
+[verbose] 343 at 1121.03
+[verbose] 344 at 1124.07
+[verbose] 345 at 1127.15
+[verbose] 346 at 1130.17
+[verbose] 347 at 1133.23
+[verbose] 348 at 1136.24
+[verbose] 349 at 1139.27
+[verbose] 350 at 1142.33
+[verbose] 351 at 1145.34
+[verbose] 352 at 1148.44
+[verbose] 353 at 1151.47
+[verbose] 354 at 1154.49
+[verbose] 355 at 1157.54
+[verbose] 356 at 1160.55
+[verbose] 357 at 1163.65
+[verbose] 358 at 1166.69
+[verbose] 359 at 1169.74
+[verbose] 360 at 1172.76
+[verbose] 361 at 1175.78
+[verbose] 362 at 1178.84
+[verbose] 363 at 1181.84
+[verbose] 364 at 1184.86
+[verbose] 365 at 1187.86
+[verbose] 366 at 1190.89
+[verbose] 367 at 1193.96
+[verbose] 368 at 1196.98
+[verbose] 369 at 1200.06
+[verbose] 370 at 1203.15
+[verbose] 371 at 1206.17
+[verbose] 372 at 1209.26
+[verbose] 373 at 1212.28
+[verbose] 374 at 1215.3
+[verbose] 375 at 1218.33
+terminate called after throwing an instance of 'Poco::SystemException'
+  what():  System exception
+[verbose] ofAppRunner: sighandler caught: 6
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 8.93172
+[verbose] 1 at 13.5343
+[verbose] 2 at 15.0214
+[verbose] 3 at 18.0413
+[verbose] 4 at 21.0316
+[verbose] 5 at 24.03
+[verbose] 6 at 27.0542
+[verbose] 7 at 30.0401
+[verbose] 8 at 33.1141
+[verbose] 9 at 36.1421
+[verbose] 10 at 39.1661
+[verbose] 11 at 42.1868
+[verbose] 12 at 45.2076
+[verbose] 13 at 48.2197
+[verbose] 14 at 51.2571
+[verbose] 15 at 54.2661
+[verbose] 16 at 57.3285
+[verbose] 17 at 60.3604
+[verbose] 18 at 63.3244
+[verbose] 19 at 66.3263
+[verbose] 20 at 69.3475
+[verbose] 21 at 72.3475
+[verbose] 22 at 75.389
+[verbose] 23 at 78.4319
+[verbose] 24 at 81.4136
+[verbose] 25 at 84.4561
+[verbose] 26 at 87.4623
+[verbose] 27 at 90.4585
+[verbose] 28 at 93.4633
+[verbose] 29 at 96.5154
+[verbose] 30 at 99.5497
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+[verbose] ofAppRunner: sighandler caught: 15
+[verbose] ofAppRunner: sighandler caught: 15
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 8.25389
+[verbose] 1 at 81967.3
+[verbose] 2 at 81970.3
+[verbose] 3 at 81973.3
+[verbose] 4 at 81976.4
+[verbose] 5 at 81979.4
+[verbose] 6 at 81982.4
+[verbose] 7 at 81985.4
+[verbose] 8 at 81988.5
+[verbose] 9 at 81991.5
+[verbose] 10 at 81994.6
+[verbose] 11 at 81997.6
+[verbose] 12 at 82000.6
+[verbose] 13 at 82003.6
+[verbose] 14 at 82006.6
+[verbose] 15 at 82009.7
+[verbose] 16 at 82012.7
+[verbose] 17 at 82015.8
+[verbose] 18 at 82018.8
+[verbose] 19 at 82021.8
+[verbose] 20 at 82024.8
+[verbose] 21 at 82027.8
+[verbose] 22 at 82030.9
+[verbose] 23 at 82033.9
+[verbose] 24 at 82036.9
+[verbose] 25 at 82040
+[verbose] 26 at 82043
+[verbose] 27 at 82046
+[verbose] 28 at 82049
+[verbose] 29 at 82052.1
+[verbose] 30 at 82055.1
+[verbose] 31 at 82058.1
+[verbose] 32 at 82061.2
+[verbose] 33 at 82064.2
+[verbose] 34 at 82067.2
+[verbose] 35 at 82070.2
+[verbose] 36 at 82073.3
+[verbose] 37 at 82076.3
+[verbose] 38 at 82079.3
+[verbose] 39 at 82082.4
+[verbose] 40 at 82085.4
+[verbose] 41 at 82088.4
+[verbose] 42 at 82091.4
+[verbose] 43 at 82094.5
+[verbose] 44 at 82097.5
+[verbose] 45 at 82100.5
+[verbose] 46 at 82103.6
+[verbose] 47 at 82106.6
+[verbose] 48 at 82109.7
+[verbose] 49 at 82112.7
+[verbose] 50 at 82115.7
+[verbose] 51 at 82118.8
+[verbose] 52 at 82121.9
+[verbose] 53 at 82124.9
+[verbose] 54 at 82128
+[verbose] 55 at 82131
+[verbose] 56 at 82134
+[verbose] 57 at 82137.1
+[verbose] 58 at 82140.1
+[verbose] 59 at 82143.1
+[verbose] 60 at 82146.2
+[verbose] 61 at 82149.2
+[verbose] 62 at 82152.2
+[verbose] 63 at 82155.3
+[verbose] 64 at 82158.3
+[verbose] 65 at 82161.4
+[verbose] 66 at 82164.5
+[verbose] 67 at 82167.5
+[verbose] 68 at 82170.5
+[verbose] 69 at 82173.5
+[verbose] 70 at 82176.6
+[verbose] 71 at 82179.6
+[verbose] 72 at 82182.7
+[verbose] 73 at 82185.7
+[verbose] 74 at 82188.7
+[verbose] 75 at 82191.8
+[verbose] 76 at 82194.8
+[verbose] 77 at 82197.9
+[verbose] 78 at 82200.9
+[verbose] 79 at 82203.9
+[verbose] 80 at 82207
+[verbose] 81 at 82210
+[verbose] 82 at 82213.1
+[verbose] 83 at 82216.2
+[verbose] 84 at 82219.2
+[verbose] 85 at 82222.3
+[verbose] 86 at 82225.3
+[verbose] 87 at 82228.5
+[verbose] 88 at 82231.5
+[verbose] 89 at 82234.5
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 13.9652
+[verbose] 1 at 3698.68
+[verbose] 2 at 3704.64
+[verbose] 3 at 3710.67
+[verbose] 4 at 3716.69
+[verbose] 5 at 3722.69
+[verbose] 6 at 3728.7
+[verbose] 7 at 3734.72
+[verbose] 8 at 3740.75
+[verbose] 9 at 3746.77
+[verbose] 10 at 3752.77
+[verbose] 11 at 3758.78
+[verbose] 12 at 3764.79
+[verbose] 13 at 3770.82
+[verbose] 14 at 3776.85
+[verbose] 15 at 3782.87
+[verbose] 16 at 3788.95
+[verbose] 17 at 3794.97
+[verbose] 18 at 3800.97
+[verbose] 19 at 3807.01
+[verbose] 20 at 3813.01
+[verbose] 21 at 3819.01
+[verbose] 22 at 3825.05
+[verbose] 23 at 3831.06
+[verbose] 24 at 3837.08
+[verbose] 25 at 3843.12
+[verbose] 26 at 3849.12
+[verbose] 27 at 3855.12
+[verbose] 28 at 3861.15
+[verbose] 29 at 3867.16
+[verbose] 30 at 3873.19
+[verbose] 31 at 3879.19
+[verbose] 32 at 3885.27
+[verbose] 33 at 3891.22
+[verbose] 34 at 3897.23
+[verbose] 35 at 3903.26
+[verbose] 36 at 3909.29
+[verbose] 37 at 3915.32
+[verbose] 38 at 3921.34
+[verbose] 39 at 3927.37
+[verbose] 40 at 3933.36
+[verbose] 41 at 3939.38
+[verbose] 42 at 3945.42
+[verbose] 43 at 3951.45
+[verbose] 44 at 3957.48
+[verbose] 45 at 3963.49
+[verbose] 46 at 3969.5
+[verbose] 47 at 3975.56
+[verbose] 48 at 3981.55
+[verbose] 49 at 3987.55
+[verbose] 50 at 3993.57
+[verbose] 51 at 3999.61
+[verbose] 52 at 4005.63
+[verbose] 53 at 4011.65
+[verbose] 54 at 4017.69
+[verbose] 55 at 4023.69
+[verbose] 56 at 4029.72
+[verbose] 57 at 4035.73
+[verbose] 58 at 4041.76
+[verbose] 59 at 4047.77
+[verbose] 60 at 4053.78
+[verbose] 61 at 4059.78
+[verbose] 62 at 4065.82
+[verbose] 63 at 4071.86
+[verbose] 64 at 4077.9
+[verbose] 65 at 4083.91
+[verbose] 66 at 4089.9
+[verbose] 67 at 4095.94
+[verbose] 68 at 4101.93
+[verbose] 69 at 4107.93
+[verbose] 70 at 4113.96
+[verbose] 71 at 4120
+[verbose] 72 at 4126
+[verbose] 73 at 4132.01
+[verbose] 74 at 4138.04
+[verbose] 75 at 4144.05
+[verbose] 76 at 4150.04
+[verbose] 77 at 4156.09
+[verbose] 78 at 4162.09
+[verbose] 79 at 4168.11
+[verbose] 80 at 4174.13
+[verbose] 81 at 4180.16
+[verbose] 82 at 4186.2
+[verbose] 83 at 4192.18
+[verbose] 84 at 4198.21
+[verbose] 85 at 4204.23
+[verbose] 86 at 4210.25
+[verbose] 87 at 4216.3
+[verbose] 88 at 4222.33
+[verbose] 89 at 4228.33
+[verbose] 90 at 4234.37
+[verbose] 91 at 4240.38
+[verbose] 92 at 4246.4
+[verbose] 93 at 4252.42
+[verbose] 94 at 4258.44
+[verbose] 95 at 4264.45
+[verbose] 96 at 4270.65
+[verbose] 97 at 4276.45
+[verbose] 98 at 4282.49
+[verbose] 99 at 4288.5
+[verbose] 100 at 4294.54
+[verbose] 101 at 4300.53
+[verbose] 102 at 4306.58
+[verbose] 103 at 4312.6
+[verbose] 104 at 4318.63
+[verbose] 105 at 4324.67
+[verbose] 106 at 4330.69
+[verbose] 107 at 4336.69
+[verbose] 108 at 4342.71
+[verbose] 109 at 4348.74
+[verbose] 110 at 4354.75
+[verbose] 111 at 4360.78
+[verbose] 112 at 4366.79
+[verbose] 113 at 4372.8
+[verbose] 114 at 4378.81
+[verbose] 115 at 4384.84
+[verbose] 116 at 4390.89
+[verbose] 117 at 4396.91
+[verbose] 118 at 4402.94
+[verbose] 119 at 4408.96
+[verbose] 120 at 4415
+[verbose] 121 at 4421.01
+[verbose] 122 at 4427.02
+[verbose] 123 at 4433.06
+[verbose] 124 at 4439.07
+[verbose] 125 at 4445.1
+[verbose] 126 at 4451.14
+[verbose] 127 at 4457.15
+[verbose] 128 at 4463.19
+[verbose] 129 at 4469.23
+[verbose] 130 at 4475.26
+[verbose] 131 at 4481.29
+[verbose] 132 at 4487.32
+[verbose] 133 at 4493.36
+[verbose] 134 at 4499.37
+[verbose] 135 at 4505.39
+[verbose] 136 at 4511.41
+[verbose] 137 at 4517.44
+[verbose] 138 at 4523.46
+[verbose] 139 at 4529.5
+[verbose] 140 at 4535.52
+[verbose] 141 at 4541.53
+[verbose] 142 at 4547.57
+[verbose] 143 at 4553.59
+[verbose] 144 at 4559.63
+[verbose] 145 at 4565.66
+[verbose] 146 at 4571.71
+[verbose] 147 at 4577.73
+[verbose] 148 at 4583.74
+[verbose] 149 at 4589.76
+[verbose] 150 at 4595.76
+[verbose] 151 at 4601.79
+[verbose] 152 at 4607.83
+[verbose] 153 at 4613.86
+[verbose] 154 at 4619.91
+[verbose] 155 at 4626.12
+[verbose] 156 at 4631.95
+[verbose] 157 at 4637.96
+[verbose] 158 at 4644.01
+[verbose] 159 at 4650.03
+[verbose] 160 at 4656.05
+[verbose] 161 at 4662.05
+[verbose] 162 at 4668.07
+[verbose] 163 at 4674.13
+[verbose] 164 at 4680.16
+[verbose] 165 at 4686.17
+[verbose] 166 at 4692.26
+[verbose] 167 at 4698.19
+[verbose] 168 at 4704.2
+[verbose] 169 at 4710.24
+[verbose] 170 at 4716.27
+[verbose] 171 at 4722.31
+[verbose] 172 at 4728.32
+[verbose] 173 at 4734.32
+[verbose] 174 at 4740.34
+[verbose] 175 at 4746.35
+[verbose] 176 at 4752.36
+[verbose] 177 at 4758.39
+[verbose] 178 at 4764.41
+[verbose] 179 at 4770.43
+[verbose] 180 at 4776.44
+[verbose] 181 at 4782.44
+[verbose] 182 at 4788.44
+[verbose] 183 at 4794.46
+[verbose] 184 at 4800.5
+[verbose] 185 at 4806.53
+[verbose] 186 at 4812.53
+[verbose] 187 at 4818.55
+[verbose] 188 at 4824.57
+[verbose] 189 at 4830.59
+[verbose] 190 at 4836.61
+[verbose] 191 at 4842.64
+[verbose] 192 at 4848.66
+[verbose] 193 at 4854.66
+[verbose] 194 at 4860.67
+[verbose] 195 at 4866.69
+[verbose] 196 at 4872.74
+[verbose] 197 at 4878.84
+[verbose] 198 at 4884.84
+[verbose] 199 at 4890.79
+[verbose] 200 at 4896.81
+[verbose] 201 at 4902.83
+[verbose] 202 at 4908.86
+[verbose] 203 at 4914.88
+[verbose] 204 at 4920.9
+[verbose] 205 at 4926.91
+[verbose] 206 at 4932.94
+[verbose] 207 at 4938.97
+[verbose] 208 at 4944.98
+[verbose] 209 at 4950.99
+[verbose] 210 at 4957.03
+[verbose] 211 at 4963.06
+[verbose] 212 at 4969.07
+[verbose] 213 at 4975.08
+[verbose] 214 at 4981.18
+[verbose] 215 at 4987.16
+[verbose] 216 at 4993.19
+[verbose] 217 at 4999.22
+[verbose] 218 at 5005.25
+[verbose] 219 at 5011.28
+[verbose] 220 at 5017.31
+[verbose] 221 at 5023.35
+[verbose] 222 at 5029.36
+[verbose] 223 at 5035.4
+[verbose] 224 at 5041.41
+[verbose] 225 at 5047.44
+[verbose] 226 at 5053.48
+[verbose] 227 at 5059.5
+[verbose] 228 at 5065.54
+[verbose] 229 at 5071.55
+[verbose] 230 at 5077.59
+[verbose] 231 at 5083.61
+[verbose] 232 at 5089.65
+[verbose] 233 at 5095.69
+[verbose] 234 at 5101.68
+[verbose] 235 at 5107.71
+[verbose] 236 at 5113.74
+[verbose] 237 at 5119.77
+[verbose] 238 at 5125.77
+[verbose] 239 at 5131.77
+[verbose] 240 at 5137.84
+[verbose] 241 at 5143.85
+[verbose] 242 at 5149.87
+[verbose] 243 at 5155.87
+[verbose] 244 at 5161.9
+[verbose] 245 at 5167.89
+[verbose] 246 at 5173.9
+[verbose] 247 at 5179.91
+[verbose] 248 at 5185.95
+[verbose] 249 at 5191.96
+[verbose] 250 at 5197.99
+[verbose] 251 at 5204.01
+[verbose] 252 at 5210.05
+[verbose] 253 at 5216.06
+[verbose] 254 at 5222.09
+[verbose] 255 at 5228.1
+[verbose] 256 at 5234.11
+[verbose] 257 at 5240.12
+[verbose] 258 at 5246.13
+[verbose] 259 at 5252.18
+[verbose] 260 at 5258.19
+[verbose] 261 at 5264.23
+[verbose] 262 at 5270.27
+[verbose] 263 at 5276.29
+[verbose] 264 at 5282.31
+[verbose] 265 at 5288.34
+[verbose] 266 at 5294.34
+[verbose] 267 at 5300.35
+[verbose] 268 at 5306.39
+[verbose] 269 at 5312.39
+[verbose] 270 at 5318.41
+[verbose] 271 at 5324.4
+[verbose] 272 at 5330.46
+[verbose] 273 at 5336.52
+[verbose] 274 at 5342.51
+[verbose] 275 at 5348.5
+[verbose] 276 at 5354.56
+[verbose] 277 at 5360.54
+[verbose] 278 at 5366.64
+[verbose] 279 at 5372.58
+[verbose] 280 at 5378.57
+[verbose] 281 at 5384.62
+[verbose] 282 at 5390.63
+[verbose] 283 at 5396.63
+[verbose] 284 at 5402.65
+[verbose] 285 at 5408.67
+[verbose] 286 at 5414.7
+[verbose] 287 at 5420.72
+[verbose] 288 at 5426.76
+[verbose] 289 at 5432.75
+[verbose] 290 at 5438.79
+[verbose] 291 at 5444.81
+[verbose] 292 at 5450.87
+[verbose] 293 at 5456.87
+[verbose] 294 at 5462.93
+[verbose] 295 at 5468.95
+[verbose] 296 at 5474.93
+[verbose] 297 at 5480.94
+[verbose] 298 at 5486.97
+[verbose] 299 at 5492.97
+[verbose] 300 at 5498.97
+[verbose] 301 at 5505.01
+[verbose] 302 at 5510.99
+[verbose] 303 at 5517.02
+[verbose] 304 at 5523.04
+[verbose] 305 at 5529.07
+[verbose] 306 at 5535.07
+[verbose] 307 at 5541.12
+[verbose] 308 at 5547.17
+[verbose] 309 at 5553.12
+[verbose] 310 at 5559.14
+[verbose] 311 at 5565.16
+[verbose] 312 at 5571.19
+[verbose] 313 at 5577.25
+[verbose] 314 at 5583.23
+[verbose] 315 at 5589.29
+[verbose] 316 at 5595.31
+[verbose] 317 at 5601.31
+[verbose] 318 at 5607.33
+[verbose] 319 at 5613.35
+[verbose] 320 at 5619.35
+[verbose] 321 at 5625.36
+[verbose] 322 at 5631.37
+[verbose] 323 at 5637.36
+[verbose] 324 at 5643.41
+[verbose] 325 at 5649.45
+[verbose] 326 at 5655.46
+[verbose] 327 at 5661.48
+[verbose] 328 at 5667.53
+[verbose] 329 at 5673.54
+[verbose] 330 at 5679.56
+[verbose] 331 at 5685.61
+[verbose] 332 at 5691.62
+[verbose] 333 at 5697.62
+[verbose] 334 at 5703.68
+[verbose] 335 at 5709.68
+[verbose] 336 at 5715.7
+[verbose] 337 at 5721.75
+[verbose] 338 at 5727.77
+[verbose] 339 at 5733.77
+[verbose] 340 at 5739.76
+[verbose] 341 at 5745.81
+[verbose] 342 at 5751.84
+[verbose] 343 at 5757.83
+[verbose] 344 at 5763.85
+[verbose] 345 at 5769.87
+[verbose] 346 at 5775.88
+[verbose] 347 at 5781.93
+[verbose] 348 at 5787.95
+[verbose] 349 at 5793.98
+[verbose] 350 at 5799.97
+[verbose] 351 at 5805.98
+[verbose] 352 at 5811.99
+[verbose] 353 at 5818.01
+[verbose] 354 at 5824.02
+[verbose] 355 at 5830.04
+[verbose] 356 at 5836.05
+[verbose] 357 at 5842.11
+[verbose] 358 at 5848.13
+[verbose] 359 at 5854.15
+[verbose] 360 at 5860.17
+[verbose] 361 at 5866.19
+[verbose] 362 at 5872.21
+[verbose] 363 at 5878.22
+[verbose] 364 at 5884.29
+[verbose] 365 at 5890.28
+[verbose] 366 at 5896.28
+[verbose] 367 at 5902.32
+[verbose] 368 at 5908.32
+[verbose] 369 at 5914.33
+[verbose] 370 at 5920.34
+[verbose] 371 at 5926.35
+terminate called after throwing an instance of 'Poco::SystemException'
+  what():  System exception
+[verbose] ofAppRunner: sighandler caught: 6
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 15516.7
+[verbose] 1 at 15522.8
+[verbose] 2 at 15528.8
+[verbose] 3 at 15534.7
+[verbose] 4 at 15540.8
+[verbose] 5 at 15546.8
+[verbose] 6 at 15552.8
+[verbose] 7 at 15558.8
+[verbose] 8 at 15564.8
+[verbose] 9 at 15570.9
+[verbose] 10 at 15576.9
+[verbose] 11 at 15582.9
+[verbose] 12 at 15588.9
+[verbose] 13 at 15594.9
+[verbose] 14 at 15601
+[verbose] 15 at 15607
+[verbose] 16 at 15613
+[verbose] 17 at 15619
+[verbose] 18 at 15625
+[verbose] 19 at 15631
+[verbose] 20 at 15637.1
+[verbose] 21 at 15643.1
+[verbose] 22 at 15649.1
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): screenRect: 1280x720
+[notice ] ofAppEGLWindow: setupRPiNativeWindow(): windowRect: 1280x720
+[notice ] ofAppEGLWindow: createSurface(): setting up EGL Display
+[notice ] ofAppEGLWindow: createSurface(): EGL Display correctly set
+[notice ] ofAppEGLWindow: createSurface(): current renderer type: ProgrammableGL
+[notice ] ofAppEGLWindow: createSurface(): GLES2 renderer detected
+[notice ] ofAppEGLWindow: createSurface(): surface created correctly
+[notice ] ofAppEGLWindow: createSurface(): API bound correctly
+[notice ] ofAppEGLWindow: createSurface(): -----EGL-----
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MAJOR = 1
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION_MINOR = 4
+[notice ] ofAppEGLWindow: createSurface(): EGL_CLIENT_APIS = OpenGL_ES OpenVG
+[notice ] ofAppEGLWindow: createSurface(): EGL_VENDOR = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): EGL_VERSION = 1.4
+[notice ] ofAppEGLWindow: createSurface(): EGL_EXTENSIONS = EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_pixmap EGL_KHR_vg_parent_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_lock_surface 
+[notice ] ofAppEGLWindow: createSurface(): GL_RENDERER = VideoCore IV HW
+[notice ] ofAppEGLWindow: createSurface(): GL_VERSION  = OpenGL ES 2.0
+[notice ] ofAppEGLWindow: createSurface(): GL_VENDOR   = Broadcom
+[notice ] ofAppEGLWindow: createSurface(): -------------
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[ error ] ofShader: begin(): couldn't begin, shader not loaded
+[notice ] ofAppEGLWindow: setupPeripherals(): peripheral setup complete
+[notice ] ofAppEGLWindow: setupNativeUDev(): created udev object
+[notice ] ofAppEGLWindow: setupMouse(): unabled to find mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse
+[ error ] ofAppEGLWindow: setupMouse(): did not open mouse, mouse_fd < 0
+[warning] ofAppEGLWindow: setupKeyboard(): unabled to find keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard
+[ error ] ofAppEGLWindow: setupKeyboard(): did not open keyboard, keyboard_fd < 0
+[notice ] ofAppEGLWindow: setupPeripherals(): native event setup complete
+[notice ] ofAppEGLWindow: setupOpenGL(): peripheral setup complete
+[warning] ofShader: GL_VERTEX_SHADER shader reports:
+Compiled
+[warning] ofShader: GL_FRAGMENT_SHADER shader reports:
+Compiled
+[notice ] Primary display is 1280 x 720
+[notice ] Second display is 320 x 240 16
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): entering infinite loop
+[notice ] ofAppEGLWindow: runAppViaInfiniteLoop(): setting up notifications complete
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[warning] ofGLProgrammableRenderer: draw(): texture is not allocated
+[verbose] 0 at 10.7622
+[verbose] 1 at 16.805
+[verbose] 2 at 22.875
+[verbose] 3 at 28.7815
+[verbose] 4 at 128359
+[verbose] 5 at 128365
+[verbose] 6 at 128371
+[verbose] 7 at 128377
+[verbose] 8 at 128383
+[verbose] 9 at 128389
+[verbose] 10 at 128395
+[verbose] 11 at 128402
+[verbose] 12 at 128408
+[verbose] 13 at 128414
+[verbose] 14 at 128420
+[verbose] 15 at 128426
+[verbose] 16 at 128432
+[verbose] 17 at 128438
+[verbose] 18 at 128444
+[verbose] 19 at 128450
+[verbose] 20 at 128456
+[verbose] 21 at 128462
+[verbose] 22 at 128468
+[verbose] 23 at 128474
+[verbose] 24 at 128480
+[verbose] 25 at 128486
+[verbose] 26 at 128492
+[verbose] 27 at 128498
+[verbose] 28 at 128504
+[verbose] 29 at 128510
+[verbose] 30 at 128516
+[verbose] 31 at 128522
+[verbose] 32 at 128528
+[verbose] 33 at 128534
+[verbose] 34 at 128540
+[verbose] 35 at 128546
+[verbose] 36 at 128552
+[verbose] 37 at 128558
+[verbose] 38 at 128564
+[verbose] 39 at 128570
+[verbose] 40 at 128576
+[verbose] 41 at 128582
+[verbose] 42 at 128588
+[verbose] 43 at 128594
+[verbose] 44 at 128600
+[verbose] 45 at 128606
+[verbose] 46 at 128612
+[verbose] 47 at 128618
+[verbose] 48 at 128624
+[verbose] 49 at 128630
+[verbose] 50 at 128636
+[verbose] 51 at 128643
+[verbose] 52 at 128649
+[verbose] 53 at 128655
+[verbose] 54 at 128661
+[verbose] 55 at 128667
+[verbose] 56 at 128673
+[verbose] 57 at 128679
+[verbose] 58 at 128685
+[verbose] 59 at 128691
+[verbose] 60 at 128697
+[verbose] 61 at 128703
+[verbose] 62 at 128709
+[verbose] 63 at 128715
+[verbose] 64 at 128721
+[verbose] 65 at 128727
+[verbose] 66 at 128733
+[verbose] 67 at 128739
+[verbose] 68 at 128745
+[verbose] 69 at 128751
+[verbose] 70 at 128757
+[verbose] 71 at 128763
+[verbose] 72 at 128769
+[verbose] 73 at 128775
+[verbose] 74 at 128781
+[verbose] 75 at 128787
+[verbose] 76 at 128793
+[verbose] 77 at 128799
+[verbose] 78 at 128805
+[verbose] 79 at 128811
+[verbose] 80 at 128817
+[verbose] 81 at 128823
+[verbose] 82 at 128829
+[verbose] 83 at 128835
+[verbose] 84 at 128841
+[verbose] 85 at 128847
+[verbose] 86 at 128853
+[verbose] 87 at 128859
+[verbose] 88 at 128865
+[verbose] 89 at 128871
+[verbose] 90 at 128877
+[verbose] 91 at 128883
+[verbose] 92 at 128889
+[verbose] 93 at 128895
+[verbose] 94 at 128901
+[verbose] 95 at 128907
+[verbose] 96 at 128913
+[verbose] 97 at 128920
+[verbose] 98 at 128926
+[verbose] 99 at 128932
+[verbose] 100 at 128938
+[verbose] 101 at 128944
+[verbose] 102 at 128950
+[verbose] 103 at 128956
+[verbose] 104 at 128962
+[verbose] 105 at 128968
+[verbose] 106 at 128974
+[verbose] 107 at 128980
+[verbose] 108 at 128986
+[verbose] 109 at 128992
+[verbose] 110 at 128998
+[verbose] 111 at 129004
+[verbose] 112 at 129010
+[verbose] 113 at 129016
+[verbose] 114 at 129022
+[verbose] 115 at 129028
+[verbose] 116 at 129034
+[verbose] 117 at 129040
+[verbose] 118 at 129046
+[verbose] 119 at 129052
+[verbose] 120 at 129058
+[verbose] 121 at 129064
+[verbose] 122 at 129070
+[verbose] 123 at 129076
+[verbose] 124 at 129082
+[verbose] 125 at 129088
+[verbose] 126 at 129094
+[verbose] 127 at 129100
+[verbose] 128 at 129106
+[verbose] 129 at 129112
+[verbose] 130 at 129118
+[verbose] 131 at 129124
+[verbose] 132 at 129130
+[verbose] 133 at 129136
+[verbose] 134 at 129142
+[verbose] 135 at 129148
+[verbose] 136 at 129154
+[verbose] 137 at 129160
+[verbose] 138 at 129166
+[verbose] 139 at 129172
+[verbose] 140 at 129178
+[verbose] 141 at 129184
+[verbose] 142 at 129190
+[verbose] 143 at 129196
+[verbose] 144 at 129202
+[verbose] 145 at 129209
+[verbose] 146 at 129215
+[verbose] 147 at 129221
+[verbose] 148 at 129227
+[verbose] 149 at 129233
+[verbose] 150 at 129239
+[verbose] 151 at 129245
+[verbose] 152 at 129251
+[verbose] 153 at 129257
+[verbose] 154 at 129263
+[verbose] 155 at 129269
+[verbose] 156 at 129275
+[verbose] 157 at 129281
+[verbose] 158 at 129287
+[verbose] 159 at 129293
+[verbose] 160 at 129299
+[verbose] 161 at 129305
+[verbose] 162 at 129311
+[verbose] 163 at 129317
+[verbose] 164 at 129323
+[verbose] 165 at 129329
+[verbose] 166 at 129335
+[verbose] 167 at 129341
+[verbose] 168 at 129347
+[verbose] 169 at 129353
+[verbose] 170 at 129359
+[verbose] 171 at 129365
+[verbose] 172 at 129371
+[verbose] 173 at 129377
+[verbose] 174 at 129383
+[verbose] 175 at 129389
+[verbose] 176 at 129395
+[verbose] 177 at 129401
+[verbose] 178 at 129407
+[verbose] 179 at 129413
+[verbose] 180 at 129419
+[verbose] 181 at 129425
+[verbose] 182 at 129431
+[verbose] 183 at 129437
+[verbose] 184 at 129443
+[verbose] 185 at 129449
+[verbose] 186 at 129455
+[verbose] 187 at 129461
+[verbose] 188 at 129468
+[verbose] 189 at 129474
+[verbose] 190 at 129480
+[verbose] 191 at 129486
+[verbose] 192 at 129492
+[verbose] 193 at 129498
+[verbose] 194 at 129504
+[verbose] 195 at 129510
+[verbose] 196 at 129516
+[verbose] 197 at 129522
+[verbose] 198 at 129528
+[verbose] 199 at 129534
+[verbose] 200 at 129540
+[verbose] 201 at 129546
+[verbose] 202 at 129552
+[verbose] 203 at 129558
+[verbose] 204 at 129564
+[verbose] 205 at 129570
+[verbose] 206 at 129576
+[verbose] 207 at 129582
+[verbose] 208 at 129588
+[verbose] 209 at 129594
+[verbose] 210 at 129600
+[verbose] 211 at 129606
+[verbose] 212 at 129612
+[verbose] 213 at 129618
+[verbose] 214 at 129624
+[verbose] 215 at 129630
+[verbose] 216 at 129636
+[verbose] 217 at 129642
+[verbose] 218 at 129648
+[verbose] 219 at 129654
+[verbose] 220 at 129660
+[verbose] 221 at 129666
+[verbose] 222 at 129672
+[verbose] 223 at 129678
+[verbose] 224 at 129684
+[verbose] 225 at 129690
+[verbose] 226 at 129696
+[verbose] 227 at 129702
+[verbose] 228 at 129708
+[verbose] 229 at 129714
+[verbose] 230 at 129720
+[verbose] 231 at 129726
+[verbose] 232 at 129732
+[verbose] 233 at 129739
+[verbose] 234 at 129745
+[verbose] 235 at 129751
+[verbose] 236 at 129757
+[verbose] 237 at 129763
+[verbose] 238 at 129769
+[verbose] 239 at 129775
+[verbose] 240 at 129781
+[verbose] 241 at 129787
+[verbose] 242 at 129793
+[verbose] 243 at 129799
+[verbose] 244 at 129805
+[verbose] 245 at 129811
+[verbose] 246 at 129817
+[verbose] 247 at 129823
+[verbose] 248 at 129829
+[verbose] 249 at 129835
+[verbose] 250 at 129841
+[verbose] 251 at 129847
+[verbose] 252 at 129853
+[verbose] 253 at 129859
+[verbose] 254 at 129865
+[verbose] 255 at 129871
+[verbose] 256 at 129877
+[verbose] 257 at 129883
+[verbose] 258 at 129889
+[verbose] 259 at 129895
+[verbose] 260 at 129901
+[verbose] 261 at 129907
+[verbose] 262 at 129913
+[verbose] 263 at 129919
+[verbose] 264 at 129925
+[verbose] 265 at 129931
+[verbose] 266 at 129937
+[verbose] 267 at 129943
+[verbose] 268 at 129949
+[verbose] 269 at 129955
+[verbose] 270 at 129961
+[verbose] 271 at 129967
+[verbose] 272 at 129973
+[verbose] 273 at 129980
+[verbose] 274 at 129985
+[verbose] 275 at 129992
+[verbose] 276 at 129998
+[verbose] 277 at 130004
+[verbose] 278 at 130010
+[verbose] 279 at 130016
+[verbose] 280 at 130022
+[verbose] 281 at 130028
+[verbose] 282 at 130034
+[verbose] 283 at 130040
+[verbose] 284 at 130046
+[verbose] 285 at 130052
+[verbose] 286 at 130058
+[verbose] 287 at 130064
+[verbose] 288 at 130070
+[verbose] 289 at 130076
+[verbose] 290 at 130082
+[verbose] 291 at 130088
+[verbose] 292 at 130094
+[verbose] 293 at 130100
+[verbose] 294 at 130106
+[verbose] 295 at 130112
+[verbose] 296 at 130118
+[verbose] 297 at 130124
+[verbose] 298 at 130130
+[verbose] 299 at 130136
+[verbose] 300 at 130142
+[verbose] 301 at 130148
+[verbose] 302 at 130154
+[verbose] 303 at 130160
+[verbose] 304 at 130166
+[verbose] 305 at 130172
+[verbose] 306 at 130178
+[verbose] 307 at 130184
+[verbose] 308 at 130190
+[verbose] 309 at 130196
+[verbose] 310 at 130202
+[verbose] 311 at 130208
+[verbose] 312 at 130214
+[verbose] 313 at 130220
+[verbose] 314 at 130226
+[verbose] 315 at 130233
+[verbose] 316 at 130239
+[verbose] 317 at 130245
+[verbose] 318 at 130251
+[verbose] 319 at 130257
+[verbose] 320 at 130263
+[verbose] 321 at 130269
+[verbose] 322 at 130275
+[verbose] 323 at 130281
+[verbose] 324 at 130287
+[verbose] 325 at 130293
+[verbose] 326 at 130299
+[verbose] 327 at 130305
+[verbose] 328 at 130311
+[verbose] 329 at 130317
+[verbose] 330 at 130323
+[verbose] 331 at 130329
+[verbose] 332 at 130335
+[verbose] 333 at 130341
+[verbose] 334 at 130347
+[verbose] 335 at 130353
+[verbose] 336 at 130359
+[verbose] 337 at 130365
+[verbose] 338 at 130371
+[verbose] 339 at 130377
+[verbose] 340 at 130383
+[verbose] 341 at 130389
+[verbose] 342 at 130395
+[verbose] 343 at 130401
+[verbose] 344 at 130407
+[verbose] 345 at 130413
+[verbose] 346 at 130419
+[verbose] 347 at 130425
+[verbose] 348 at 130431
+[verbose] 349 at 130437
+[verbose] 350 at 130443
+[verbose] 351 at 130449
+[verbose] 352 at 130455
+[verbose] 353 at 130461
+[verbose] 354 at 130467
+[verbose] 355 at 130474
+[verbose] 356 at 130480
+[verbose] 357 at 130486
+[verbose] 358 at 130492
+[verbose] 359 at 130498
+[verbose] 360 at 130504
+[verbose] 361 at 130510
+[verbose] 362 at 130516
+[verbose] 363 at 130522
+[verbose] 364 at 130528
+[verbose] 365 at 130534
+[verbose] 366 at 130540
+[verbose] 367 at 130546
+[verbose] 368 at 130552
+[verbose] 369 at 130558
+[verbose] 370 at 130564
+[verbose] 371 at 130570
+terminate called after throwing an instance of 'Poco::SystemException'
+  what():  System exception
+[verbose] ofAppRunner: sighandler caught: 6
+[verbose] ofEvents: OF app is being terminated!
+[notice ] ofAppEGLWindow: destroyNativeKeyboard()
+[notice ] ofAppEGLWindow: destroyNativeKeyboard(): unable to reset terminal
+[notice ] ofAppEGLWindow: destroySurface(): destroying EGL surface
