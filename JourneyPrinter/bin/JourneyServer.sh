@@ -20,8 +20,8 @@ start)
   echo "Starting JourneyPrinter"
   cd /home/pi/openFrameworks/apps/Skylines02/JourneyPrinter/bin
   while : ; do
-  	sudo -u $USER ./JourneyPrinter>> $OUT 2>>$OUT&
-  	sleep 30; 
+  	sudo -u $USER ./JourneyPrinter>> $OUT 2>>$OUT
+  	sleep 60; 
 	done
 	;;
 
