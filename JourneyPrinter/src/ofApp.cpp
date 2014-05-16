@@ -41,6 +41,12 @@ void ofApp::setup(){
         }
 	}
     
+    ofBuffer actualFrameBuffer = ofBufferFromFile("frame.txt");
+    string firstLine = actualFrameBuffer.getFirstLine();
+    cout << "Getting first line: " << firstLine << endl;
+    nLoad = ofToInt(firstLine);
+    cout << "Starting from " << nLoad << endl;
+    
     printer.setControlParameter(20, 80, 250);
     lastTime = ofGetElapsedTimef();
 }
@@ -64,6 +70,8 @@ void ofApp::update(){
         
         string cmd = "echo " + ofToString(nLoad) + "@"+ ofGetTimestampString() + " >> frames.log";
         int i = system(cmd.c_str());
+        cmd = "echo " + ofToString(nLoad) + " > " + ofToDataPath("frame.txt");
+        i = system(cmd.c_str());
         
         lastTime = now;
         ofLog(OF_LOG_VERBOSE,ofToString(nLoad)+" at "+ofToString(ofGetElapsedTimef()));
