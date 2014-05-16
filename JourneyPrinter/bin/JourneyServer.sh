@@ -19,7 +19,10 @@ case "$1" in
 start)
   echo "Starting JourneyPrinter"
   cd /home/pi/openFrameworks/apps/Skylines02/JourneyPrinter/bin
-  sudo -u $USER ./JourneyPrinter>> $OUT 2>>$OUT&
+  while : ; do
+  	sudo -u $USER ./JourneyPrinter>> $OUT 2>>$OUT&
+  	sleep 30; 
+	done
 	;;
 
 stop)
