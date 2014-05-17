@@ -17,7 +17,7 @@ OUT=journey.log
 case "$1" in
 
 start)
-  sleep 600;
+  sleep 60;
   echo "Starting JourneyPrinter"
   cd /home/pi/openFrameworks/apps/Skylines02/JourneyPrinter/bin
   while : ; do
