@@ -1,0 +1,3 @@
+ofxThermalPrinter
+ofxXmlSettings
+ofxPiTFT
