@@ -1,4 +1,4 @@
-Machine that prints the large-scale transitions of the horizon on a path from the city to the mountains. While _Skyline #01_ sees through the flow of the time, _Skyline #02_ expands our perception of space.
+Machine that prints the large-scale transitions of the horizon on a path from the city to the mountains. While _Skyline #01_ sees through the flow of the time, _Skyline #02_ expands our perception of space .
 
 ![IMAGE](Design/sk02.png)
 
